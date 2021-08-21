@@ -352,6 +352,9 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/vendor.mediatek.hardware.nvram@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.nvram@1.0-impl.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/vendor.mediatek.hardware.power@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.power@1.1-impl.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/vendor.mediatek.hardware.pq@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.pq@2.0-impl.so \
+    vendor/bq/freezerhd/proprietary/vendor/lib/android.hardware.audio@2.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio@2.0-v27.so \
+    vendor/bq/freezerhd/proprietary/vendor/lib/android.hardware.audio.common@2.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@2.0-v27.so \
+    vendor/bq/freezerhd/proprietary/vendor/lib/android.hardware.audio.common@2.0-util-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.audio.common@2.0-util-v27.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/lbs_hidl_service-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/lbs_hidl_service-impl.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/lib3a.log.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib3a.log.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/lib3am.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib3am.so \
@@ -567,6 +570,9 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.nvram@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.nvram@1.0-impl.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.power@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.power@1.1-impl.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.pq@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.pq@2.0-impl.so \
+    vendor/bq/freezerhd/proprietary/vendor/lib64/android.hardware.audio@2.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.audio@2.0-v27.so \
+    vendor/bq/freezerhd/proprietary/vendor/lib64/android.hardware.audio.common@2.0-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.audio.common@2.0-v27.so \
+    vendor/bq/freezerhd/proprietary/vendor/lib64/android.hardware.audio.common@2.0-util-v27.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.audio.common@2.0-util-v27.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/lbs_hidl_service-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lbs_hidl_service-impl.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/lib3a.log.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib3a.log.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/lib3am.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib3am.so \
