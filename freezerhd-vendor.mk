@@ -351,7 +351,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/libSoftGatekeeper.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/libSoftGatekeeper.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/lights.mt8163.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/lights.mt8163.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/memtrack.mt8163.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/memtrack.mt8163.so \
-    vendor/bq/freezerhd/proprietary/vendor/lib/hw/power.mt8163.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/power.mt8163.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/sensors.mt8163.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sensors.mt8163.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/vendor.mediatek.hardware.camera.ccap@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.camera.ccap@1.0-impl.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/hw/vendor.mediatek.hardware.gnss@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/vendor.mediatek.hardware.gnss@1.1-impl.so \
@@ -568,7 +567,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/libSoftGatekeeper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/libSoftGatekeeper.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/lights.mt8163.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/lights.mt8163.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/memtrack.mt8163.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/memtrack.mt8163.so \
-    vendor/bq/freezerhd/proprietary/vendor/lib64/hw/power.mt8163.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/power.mt8163.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/sensors.mt8163.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sensors.mt8163.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.camera.ccap@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.camera.ccap@1.0-impl.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/hw/vendor.mediatek.hardware.gnss@1.1-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.mediatek.hardware.gnss@1.1-impl.so \
