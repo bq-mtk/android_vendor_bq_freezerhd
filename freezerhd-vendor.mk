@@ -280,12 +280,9 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/vendor/etc/init/vendor.mediatek.hardware.power@1.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.power@1.1-service.rc \
     vendor/bq/freezerhd/proprietary/vendor/etc/init/vendor.mediatek.hardware.pq@2.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.mediatek.hardware.pq@2.0-service.rc \
     vendor/bq/freezerhd/proprietary/vendor/etc/init/wifi2agps.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wifi2agps.rc \
-    vendor/bq/freezerhd/proprietary/vendor/etc/media_codecs_mediatek_audio.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_mediatek_audio.xml \
-    vendor/bq/freezerhd/proprietary/vendor/etc/media_codecs_mediatek_video.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_mediatek_video.xml \
     vendor/bq/freezerhd/proprietary/vendor/etc/mtk_omx_core.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/mtk_omx_core.cfg \
     vendor/bq/freezerhd/proprietary/vendor/etc/partition_permission.sh:$(TARGET_COPY_OUT_VENDOR)/etc/partition_permission.sh \
     vendor/bq/freezerhd/proprietary/vendor/etc/permissions/com.mediatek.tedongle.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/com.mediatek.tedongle.xml \
-    vendor/bq/freezerhd/proprietary/vendor/etc/permissions/media_codecs.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/media_codecs.xml \
     vendor/bq/freezerhd/proprietary/vendor/etc/permissions/pms_sysapp_removable_vendor_list.txt:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/pms_sysapp_removable_vendor_list.txt \
     vendor/bq/freezerhd/proprietary/vendor/etc/power_whitelist_cfg.xml:$(TARGET_COPY_OUT_VENDOR)/etc/power_whitelist_cfg.xml \
     vendor/bq/freezerhd/proprietary/vendor/etc/powerscntbl.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/powerscntbl.cfg \
