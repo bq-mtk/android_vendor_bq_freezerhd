@@ -501,7 +501,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/vendor/lib/librilproxyutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/librilproxyutils.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/librilutilsmtk.so:$(TARGET_COPY_OUT_VENDOR)/lib/librilutilsmtk.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/librrc.so:$(TARGET_COPY_OUT_VENDOR)/lib/librrc.so \
-    vendor/bq/freezerhd/proprietary/vendor/lib/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensorndkbridge.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/libspeech_enh_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libspeech_enh_lib.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/libstagefrighthw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstagefrighthw.so \
     vendor/bq/freezerhd/proprietary/vendor/lib/libstorage_otp.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstorage_otp.so \
@@ -700,7 +699,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/vendor/lib64/librilproxyutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librilproxyutils.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/librilutilsmtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/librilutilsmtk.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/libselinux_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libselinux_vendor.so \
-    vendor/bq/freezerhd/proprietary/vendor/lib64/libsensorndkbridge.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensorndkbridge.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/libspeech_enh_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libspeech_enh_lib.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/libstagefrighthw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstagefrighthw.so \
     vendor/bq/freezerhd/proprietary/vendor/lib64/libsysenv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsysenv.so \
