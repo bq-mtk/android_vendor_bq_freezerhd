@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/bin/atcid:system/bin/atcid \
     vendor/bq/freezerhd/proprietary/bin/audiocmdservice_atci:system/bin/audiocmdservice_atci \
-    vendor/bq/freezerhd/proprietary/bin/badblocks:system/bin/badblocks \
     vendor/bq/freezerhd/proprietary/bin/batterywarning:system/bin/batterywarning \
     vendor/bq/freezerhd/proprietary/bin/dm_agent_binder:system/bin/dm_agent_binder \
     vendor/bq/freezerhd/proprietary/bin/ged_srv:system/bin/ged_srv \
@@ -30,7 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/bin/terservice:system/bin/terservice \
     vendor/bq/freezerhd/proprietary/bin/tertestclient:system/bin/tertestclient \
     vendor/bq/freezerhd/proprietary/bin/thermald:system/bin/thermald \
-    vendor/bq/freezerhd/proprietary/bin/vintf:system/bin/vintf \
     vendor/bq/freezerhd/proprietary/bin/wfd:system/bin/wfd \
     vendor/bq/freezerhd/proprietary/etc/a2dp_audio_policy_configuration.xml:system/etc/a2dp_audio_policy_configuration.xml \
     vendor/bq/freezerhd/proprietary/etc/apdb/APDB_MT8163_S01_alps-mp-o1.mp5_W18.48:system/etc/apdb/APDB_MT8163_S01_alps-mp-o1.mp5_W18.48 \
@@ -102,7 +100,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/lib/libvoicerecognition_jni.so:system/lib/libvoicerecognition_jni.so \
     vendor/bq/freezerhd/proprietary/lib/libvsync_enhance.so:system/lib/libvsync_enhance.so \
     vendor/bq/freezerhd/proprietary/lib/libvsync_hint.so:system/lib/libvsync_hint.so \
-    vendor/bq/freezerhd/proprietary/lib/libxml2.so:system/lib/libxml2.so \
     vendor/bq/freezerhd/proprietary/lib/libxtables.so:system/lib/libxtables.so \
     vendor/bq/freezerhd/proprietary/lib/libyv12util.so:system/lib/libyv12util.so \
     vendor/bq/freezerhd/proprietary/lib/vendor.mediatek.hardware.camera.device@1.1.so:system/lib/vendor.mediatek.hardware.camera.device@1.1.so \
@@ -161,7 +158,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/freezerhd/proprietary/lib64/libvsync_enhance.so:system/lib64/libvsync_enhance.so \
     vendor/bq/freezerhd/proprietary/lib64/libvsync_hint.so:system/lib64/libvsync_hint.so \
     vendor/bq/freezerhd/proprietary/lib64/libwifitest_mtk.so:system/lib64/libwifitest_mtk.so \
-    vendor/bq/freezerhd/proprietary/lib64/libxml2.so:system/lib64/libxml2.so \
     vendor/bq/freezerhd/proprietary/lib64/libxtables.so:system/lib64/libxtables.so \
     vendor/bq/freezerhd/proprietary/lib64/libyv12util.so:system/lib64/libyv12util.so \
     vendor/bq/freezerhd/proprietary/lib64/vendor.mediatek.hardware.camera.device@1.1.so:system/lib64/vendor.mediatek.hardware.camera.device@1.1.so \
